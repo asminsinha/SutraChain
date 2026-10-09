@@ -76,8 +76,6 @@ c:\Users\asmin\sutra_chain\
 │   ├── mongo_init.py                # Safe idempotent seed & index creation for MongoDB
 │   └── neo4j_init.py                # Safe idempotent Cypher seed & constraints for Neo4j
 ├── docs/
-│   ├── DEMO_SCRIPT.md               # Step-by-step Review 3 teacher demo walkthrough
-│   ├── TESTING_REPORT.md            # Empirical test execution logs & coverage matrix
 │   └── USER_MANUAL.md               # End-user operational guide with screenshots guide
 ├── frontend/
 │   ├── dist/                        # Production build bundle
@@ -100,7 +98,6 @@ c:\Users\asmin\sutra_chain\
 │   ├── package.json                 # Frontend dependencies (React, Recharts, Cytoscape)
 │   └── vite.config.ts               # Vite bundler configuration & backend proxy
 ├── .env.example                     # Environment template (NO credentials exposed)
-├── ANTIGRAVITY_HANDOVER.md          # Comprehensive engineering audit & handover log
 ├── README.md                        # Primary documentation & setup instructions
 └── requirements.txt                 # Python backend dependencies
 ```
